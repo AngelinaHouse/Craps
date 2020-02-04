@@ -1,5 +1,6 @@
 import java.util.Scanner;
-
+//comment
+// this is for testing purposes
 public class craps
 	{
 		static int roleTotal;
